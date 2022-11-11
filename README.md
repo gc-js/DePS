@@ -63,4 +63,4 @@ Change batch_size in deepnovo_config.py
 2. When you run make build you get "./lib/python3.8/site-packages/numpy/core/include/numpy/npy_1_7_deprecated_api.h:17:2: warning: #warning "Using deprecated NumPy API, disable it with " "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION".
 ```
 Solution:
-open "./lib/python3.8/site-packages/numpy/core/include/numpy/ndarraytypes.h" file, and add "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" to the first line and re-make build
+open "./lib/python3.8/site-packages/numpy/core/include/numpy/ndarraytypes.h" file, and add "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" to the first line and re-make build.
