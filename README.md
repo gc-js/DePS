@@ -46,5 +46,7 @@ make test
 ~~~
 
 
+## Troubleshooting
 
+In this section we provide an overview of issues that you may meet and how they were solved.
 
