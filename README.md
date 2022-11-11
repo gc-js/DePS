@@ -50,3 +50,14 @@ make test
 
 In this section we provide an overview of issues that you may meet and how they were solved.
 
+```shell
+1. RuntimeError: CUDA out of memory.
+```
+Solution:
+Change batch_size in deepnovo_config.py
+
+```shell
+2. When you run make build you get "./lib/python3.8/site-packages/numpy/core/include/numpy/npy_1_7_deprecated_api.h:17:2: warning: #warning "Using deprecated NumPy API, disable it with " "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION".
+```
+Solution:
+open "./lib/python3.8/site-packages/numpy/core/include/numpy/ndarraytypes.h" file, and add "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" to the first line and re-make build
