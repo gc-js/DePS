@@ -67,3 +67,10 @@ open "./lib/python3.8/site-packages/numpy/core/include/numpy/ndarraytypes.h" fil
 
 ## Results
 
+Loss Curve of DePS and DeepNovoV2.
+
+![loss curve](https://github.com/gc-js/DePS/blob/main/imgs/loss.png)
+
+DePS outperforms DeepNovoV2 on the cross-species dataset.
+
+![barchart](https://github.com/gc-js/DePS/blob/main/imgs/BarChart.png)
