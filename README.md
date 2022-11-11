@@ -15,9 +15,10 @@ dataclasses
 
 The ABRF DDA spectrums and the default knapsack.npy file could be downloaded [here](https://drive.google.com/drive/folders/1sS9fTUjcwQukUVCXLzAUufbpR0UjJfSc?usp=sharing).
 
-You can also download the [train data](https://pan.baidu.com/s/1TuvFT1A0wUPu4z8X5bvdLw?pwd=2022) and [test data](https://pan.baidu.com/s/1FzHu3fvug1LiO3LS7NcdDA?pwd=2022) from Baidu net disk.
-
 And the 9 species data could be downloaded [here](ftp://massive.ucsd.edu/MSV000081382/peak/DeepNovo/HighResolution/): ftp://massive.ucsd.edu/MSV000081382/peak/DeepNovo/HighResolution/. 
+
+
+You can also download the [train data](https://pan.baidu.com/s/1TuvFT1A0wUPu4z8X5bvdLw?pwd=2022) and [test data](https://pan.baidu.com/s/1FzHu3fvug1LiO3LS7NcdDA?pwd=2022) from Baidu net disk.
 
 It is worth noting that
  in our implementation we represent training samples in a slightly different format (i.e. peptide stored in a csv file and spectrums stored in mgf files).
