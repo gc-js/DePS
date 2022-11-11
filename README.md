@@ -7,6 +7,8 @@ python >= 3.6
 
 pytorch >= 1.0
 
+Cython
+
 dataclasses
 
 ## data files
