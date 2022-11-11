@@ -23,7 +23,7 @@ It is worth noting that
  in our implementation we represent training samples in a slightly different format (i.e. peptide stored in a csv file and spectrums stored in mgf files).
  We also include a script for converting the file format (data_format_converter.py in DePS branch).
 
-## usage
+## Usage
 first build cython modules
 
 ~~~
