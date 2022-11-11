@@ -1,8 +1,6 @@
-# DeepNovo-pytorch
+# DePS
 
-The DeepNovoV1 branch contains a pytorch re-implementation of [DeepNovo](https://github.com/nh2tran/DeepNovo)
-
-The DeepNovoV2 branch contains the implementation of our proposed [DeepNovoV2](https://arxiv.org/abs/1904.08514) model.
+The DePS branch contains the implementation of our proposed [DePS](https://arxiv.org/abs/2203.08820) model.
 
 ## Dependency
 python >= 3.6
@@ -18,7 +16,7 @@ And the 9 species data could be downloaded [here](ftp://massive.ucsd.edu/MSV0000
 
 It is worth noting that
  in our implementation we represent training samples in a slightly different format (i.e. peptide stored in a csv file and spectrums stored in mgf files).
- We also include a script for converting the file format (data_format_converter.py in DeepNovoV2 branch).
+ We also include a script for converting the file format (data_format_converter.py in DePS branch).
 
 ## usage
 first build cython modules
