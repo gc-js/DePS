@@ -15,7 +15,7 @@ dataclasses
 
 The ABRF DDA spectrums (the data for Table 1 in the original paper) and the default knapsack.npy file could be downloaded [here](https://drive.google.com/drive/folders/1sS9fTUjcwQukUVCXLzAUufbpR0UjJfSc?usp=sharing).
 
-You can also download the data file from [Baidu net disk](https://pan.baidu.com/s/1q9cTAZFPHOOxnrxHWnblGQ).
+You can also download the data file from [Baidu net disk](https://pan.baidu.com/s/1TuvFT1A0wUPu4z8X5bvdLw?pwd=2022).
 
 And the 9 species data could be downloaded [here](ftp://massive.ucsd.edu/MSV000081382/peak/DeepNovo/HighResolution/): ftp://massive.ucsd.edu/MSV000081382/peak/DeepNovo/HighResolution/. 
 
