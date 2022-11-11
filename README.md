@@ -1,6 +1,6 @@
 # DePS
 
-The DePS branch contains the implementation of our proposed [DePS](https://arxiv.org/abs/2203.08820) model.
+The DePS branch contains the implementation of our proposed [DePS](https://arxiv.org/abs/2203.08820) model. This implementation of DePS was transcribed from [DeepNovoV2](https://github.com/volpato30/DeepNovoV2). We improved the feature representation and feature extraction network.
 
 ## Dependency
 python >= 3.6
