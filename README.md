@@ -64,3 +64,6 @@ Change batch_size in deepnovo_config.py
 ```
 Solution:
 open "./lib/python3.8/site-packages/numpy/core/include/numpy/ndarraytypes.h" file, and add "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" to the first line and re-make build.
+
+## Results
+
