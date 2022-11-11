@@ -13,7 +13,7 @@ dataclasses
 
 ## Data files
 
-The ABRF DDA spectrums (the data for Table 1 in the original paper) and the default knapsack.npy file could be downloaded [here](https://drive.google.com/drive/folders/1sS9fTUjcwQukUVCXLzAUufbpR0UjJfSc?usp=sharing).
+The ABRF DDA spectrums and the default knapsack.npy file could be downloaded [here](https://drive.google.com/drive/folders/1sS9fTUjcwQukUVCXLzAUufbpR0UjJfSc?usp=sharing).
 
 You can also download the data file from [Baidu net disk](https://pan.baidu.com/s/1TuvFT1A0wUPu4z8X5bvdLw?pwd=2022).
 
